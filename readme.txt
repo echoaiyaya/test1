@@ -6,6 +6,8 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 
-test brach
+test brach. ok, let fix this problem.
+heooialeilaksia
 
 test branch master here	
+
