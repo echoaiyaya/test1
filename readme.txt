@@ -7,7 +7,6 @@ Git tracks changes.
 
 
 test brach. ok, let fix this problem.
-heooialeilaksia
 
 test branch master here	
 
